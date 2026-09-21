@@ -17,3 +17,10 @@ Entretanto, ao elevarmos um pouco a porcentagem de erro, veremos problemas como 
 A recebeu: ZYXXXWVUTSSRQPOOOMNLKJJIIHHHGFEDCBA
 B recebeu: ABCDEFGGHIIJKLMMNOPQRSTUUVVVWWXYZ
 ```
+
+Esses problemas ocorrem devido aos erros difíceis de se evitar nos projetos de protocolos. Sendo eles:
+- conjunto incompleto de regras e procedimentos.
+- regras e procedimentos que são contraditórios / se opõem.
+
+Ao se deparar com um caso muito específico, o protocolo não consegue evitar a repetição dos dados e nem a perda deles.
+Conseguir superar esses casos específicos é o maior desafio na hora de desenvolver um protocolo.
